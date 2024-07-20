@@ -11,20 +11,16 @@ $$$$$$$$\ $$\                           $$\                            │
    \__|   \__|  \__| \______/ \__|      \__| \______/ \__| \__| \__|   │
 ```
 **Our Tools**
-- We are a software developement team, so we use some top class prgramming languages and services:
+- We are a software development team, and we pride ourselves on using top-class programming languages and services to deliver the best results:
 
-*Production Level Programming Languages*
-  
-|   Python   |      Go      |      C#      |
-|:----------:|:------------:|:------------:|
-| ![Python](/assets/more/python.png) | ![Go](/assets/more/go-lang.png) | ![C#](/assets/more/C#.png) |
+🌟 Production Level Programming Languages 🌟
 
-*Production Level Storage Systems*
-  
-|   MsSql    |     MySql    |     Json     |
-|:----------:|:------------:|:------------:|
-| ![Python](/assets/more/MsSql.png) | ![Go](/assets/more/MySql.png) | ![C#](/assets/more/Json.png) |
+Python 🐍: Almost every open-source project is done in Python! It's versatile and loved by developers worldwide.
+Go 🦦: Most of the .exe files and high-performance applications are crafted with Go! It's super fast and efficient.
+C# 💻: All the website stuff is done in C# - ASP.NET! It's robust and perfect for enterprise-level applications.
+🗄️ Production Level Storage Systems 🗄️
 
+- JSON 📄: JSON rocks!!!!!! It's lightweight, easy to read, and the go-to format for data interchange!
 
 **Contribution guidelines**  
 We welcome contributions from the community! Whether you're a developer, designer, or blockchain enthusiast, there's a place for you at Thorium Org. Check out our contribution guidelines to get started and see how you can make an impact. 🤝👩‍💻👨‍💻
@@ -35,3 +31,8 @@ Need more information? Our comprehensive documentation covers everything you nee
 
 **By The Way**  
 Our team loves starting the day with a hearty breakfast. From smoothies to pancakes, we believe a good meal fuels great ideas! 🥞🍇🍹
+
+*Have Fun With The Snake*
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
