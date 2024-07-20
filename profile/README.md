@@ -2,12 +2,12 @@
 
 ```
 $$$$$$$$\ $$\                           $$\                            │ 
-\__$$  __|$$ |                          \__|                           │ 🌟 Thorium Org is a blockchain startup dedicated to 
-   $$ |   $$$$$$$\   $$$$$$\   $$$$$$\  $$\ $$\   $$\ $$$$$$\$$$$\     │ revolutionizing how applications interact with
+\__$$  __|$$ |                          \__|                           │ 🌟 Thorium Org is a blockchain startup dedicated  
+   $$ |   $$$$$$$\   $$$$$$\   $$$$$$\  $$\ $$\   $$\ $$$$$$\$$$$\     │ to revolutionizing how applications interact with
    $$ |   $$  __$$\ $$  __$$\ $$  __$$\ $$ |$$ |  $$ |$$  _$$  _$$\    │ blockchain technology.
-   $$ |   $$ |  $$ |$$ /  $$ |$$ |  \__|$$ |$$ |  $$ |$$ / $$ / $$ |   │ 🌟 Our mission is to seamlessly integrate blockchain 
-   $$ |   $$ |  $$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |$$ | $$ | $$ |   │ capabilities into every app, making them more
-   $$ |   $$ |  $$ |\$$$$$$  |$$ |      $$ |\$$$$$$  |$$ | $$ | $$ |   │ secure, transparent, and efficient. 🔒
+   $$ |   $$ |  $$ |$$ /  $$ |$$ |  \__|$$ |$$ |  $$ |$$ / $$ / $$ |   │ 🌟 Our mission is to seamlessly integrate  
+   $$ |   $$ |  $$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |$$ | $$ | $$ |   │ blockchain capabilities into every app, making
+   $$ |   $$ |  $$ |\$$$$$$  |$$ |      $$ |\$$$$$$  |$$ | $$ | $$ |   │ them more secure, transparent, and efficient. 🔒
    \__|   \__|  \__| \______/ \__|      \__| \______/ \__| \__| \__|   │
 ```
 
